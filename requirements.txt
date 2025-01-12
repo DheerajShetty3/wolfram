@@ -296,7 +296,7 @@ python-multipart==0.0.9
 pytz==2024.1
 pyunormalize==15.1.0
 pyviz_comms==3.0.3
-pywin32==302
+pywin32==308
 pywinpty==2.0.13
 PyYAML==6.0.2
 pyzmq==26.2.0
@@ -355,6 +355,7 @@ streamlit==1.30.0
 striprtf==0.0.26
 structlog==24.4.0
 # Editable install with no version control (sumo-rl==1.4.5)
+-e C:/Users/h357d/Downloads/sumo-rl-main
 sumolib==1.21.0
 sympy==1.13.2
 tabulate==0.9.0
